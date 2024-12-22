@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Korstrada Africa's Top 50 Most Corrupt Politicians list</title>
+<link rel="stylesheet" href="navstyle.css">
+<link rel="stylesheet" href="contactform.css">
+</head>
+<body>
+<ul>
+<li><a class="active" href="index.html">Home</a></li>
+<li><a href="contact.html">Contact</a></li>
+<li><a href="about.html">About</a></li>
+<li><a href="donation.html">Donation</a></li>
+</ul>
+
+<!-- Container for the contact form -->
+<div class="container">
+<form action="mailto:casselldanny@aol.com" method="post" enctype="text/plain">
+<h2>Contact Us</h2>
+            
+<label for="name">Name:</label>
+<input type="text" id="name" name="name" required>
+            
+<label for="mail">E-mail:</label>
+<input type="email" id="mail" name="mail" required>
+            
+<label for="comment">Comment:</label>
+<input type="text" id="comment" name="comment" size="50" required>
+            
+<button type="submit">Send</button>
+<button type="reset">Reset</button>
+</form>
+</div>
+
+<div class="footer">
+<p>&#169; 2024 Korstrada Top 50 List LLC All Rights Reserved.</p>
+</div>
+<script src="Contactscript.js"></script>
+</body>
+</html>

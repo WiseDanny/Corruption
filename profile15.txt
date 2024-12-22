@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Korstrada Africa's Top 50 Most Corrupt Politicians list</title>
+<link rel="stylesheet" href="navstyle.css">
+</head>
+<body>
+<ul>
+<li><a class="active" href="index.html">Home</a></li>
+<li><a href="contact.html">Contact</a></li>
+<li><a href="about.html">About</a></li>
+<li><a href="donation.html">Donation</a></li>
+</ul>
+
+<p>Ismail Omar Guelleh, the president of Djibouti since 1999, has often been the focus of corruption allegations related to his long-standing control over the nation’s economy, political system, and lucrative geopolitical positioning. Guelleh’s administration, known for its tight grip on Djibouti’s resources and infrastructure, is frequently criticized for prioritizing personal and elite interests over public welfare, with little transparency or accountability in government affairs. Djibouti’s strategic location on the Horn of Africa has attracted significant foreign investment, particularly in its ports and military bases, yet these revenues often seem to benefit the ruling elite rather than the broader population.
+
+One of the main areas of alleged corruption is linked to Djibouti’s port sector. Djibouti’s position along key shipping routes has made it a critical location for global trade, with ports that generate substantial income. However, accusations suggest that revenue from these investments and leases—often involving foreign powers like the United States, China, and France, who maintain military bases in the country—has been funneled into private accounts or used to consolidate power rather than reinvested in public services. </p>
+
+<div class="footer">
+<p>&#169; 2024 Korstrada Top 50 List LLC All Rights Reserved.</p>
+</div>
+</body>
+</html>

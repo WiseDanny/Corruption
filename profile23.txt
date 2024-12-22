@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Korstrada Africa's Top 50 Most Corrupt Politicians list</title>
+<link rel="stylesheet" href="navstyle.css">
+</head>
+<body>
+<ul>
+<li><a class="active" href="index.html">Home</a></li>
+<li><a href="contact.html">Contact</a></li>
+<li><a href="about.html">About</a></li>
+<li><a href="donation.html">Donation</a></li>
+</ul>
+
+
+<p>While Ndayishimiye has pledged to reduce the military’s role in politics, the military continues to play a prominent role in the Burundian political landscape. This military influence, coupled with a lack of strong institutional checks and balances, has created an environment where corruption and human rights abuses can go unchecked</p>
+
+<div class="footer">
+<p>&#169; 2024 Korstrada Top 50 List LLC All Rights Reserved.</p>
+</div>
+</body>
+</html>

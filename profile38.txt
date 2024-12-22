@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Korstrada Africa's Top 50 Most Corrupt Politicians list</title>
+<link rel="stylesheet" href="navstyle.css">
+</head>
+<body>
+<ul>
+<li><a class="active" href="index.html">Home</a></li>
+<li><a href="contact.html">Contact</a></li>
+<li><a href="about.html">About</a></li>
+<li><a href="donation.html">Donation</a></li>
+</ul>
+
+
+<p>Twehway was the Managing Director of the National Port Authority. Twehway orchestrated the diversion of $1.5 million in vessel storage fee funds from the NPA into a private account. Twehway secretly formed a private company and awarded a contract for loading and unloading cargo at the Port of Buchanan. </p>
+
+<div class="footer">
+<p>&#169; 2024 Korstrada Top 40 List LLC All Rights Reserved.</p>
+</div>
+</body>
+</html>

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Korstrada Africa's Top 50 Most Corrupt Politicians list</title>
+<link rel="stylesheet" href="navstyle.css">
+</head>
+<body>
+<ul>
+<li><a class="active" href="index.html">Home</a></li>
+<li><a href="contact.html">Contact</a></li>
+<li><a href="about.html">About</a></li>
+<li><a href="donation.html">Donation</a></li>
+</ul>
+
+<p>Paul Biya, Cameroon’s long-serving president, has been heavily criticized for fostering a system that allows corruption to thrive at nearly every level of governance. In office since 1982, Biya's tenure has been marked by allegations of mismanagement, misappropriation of public funds, and favoritism toward allies and close associates. Critics argue that Biya uses his authority to manipulate political and economic structures, consolidating power and suppressing opposition.
+
+One significant area of corruption involves Biya’s control over Cameroon’s vast oil resources. The government’s lack of transparency regarding oil revenues has led to suspicions that these funds are often diverted to finance Biya’s extravagant lifestyle and his network of loyalists. Another frequent criticism is his extended stays abroad in luxury, sometimes for months, using public funds that could otherwise support essential services like healthcare, education, and infrastructure.
+
+Biya’s administration has also been accused of using corruption to maintain control over the military and judiciary. By financially rewarding military leaders and high-ranking officials, he allegedly ensures their loyalty, which is crucial in a nation with rising political tensions and civil unrest. This “patronage” system essentially creates a buffer around his presidency, weakening institutions and diminishing any real opposition.
+
+In response to mounting pressure from the international community, Biya introduced anti-corruption initiatives like “Operation Sparrowhawk” to investigate and prosecute corrupt officials. However, this program is widely seen as a tool to target political adversaries rather than a genuine attempt to curb corruption. Many of those prosecuted are perceived as threats to Biya’s rule, leading to skepticism about the program’s true intentions.
+
+The effects of Biya’s alleged corruption have been disastrous for Cameroon. Basic infrastructure is lacking, and poverty rates remain high despite the country's wealth in resources. Many Cameroonians feel that the concentration of power and resources among a small elite has left the majority with limited opportunities for improvement, leading to growing dissatisfaction and unrest.</p>
+<div class="footer">
+<p>&#169; 2024 Korstrada Top 50 List LLC All Rights Reserved.</p>
+</div>
+</body>
+</html>

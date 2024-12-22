@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Korstrada Africa's Top 50 Most Corrupt Politicians list</title>
+<link rel="stylesheet" href="navstyle.css">
+</head>
+<body>
+<ul>
+<li><a class="active" href="index.html">Home</a></li>
+<li><a href="contact.html">Contact</a></li>
+<li><a href="about.html">About</a></li>
+<li><a href="donation.html">Donation</a></li>
+</ul>
+
+<p>Paul-Henri Sandaogo Damiba, a military officer in Burkina Faso, came to power in January 2022 through a coup, ousting President Roch Marc Christian Kaboré. Damiba justified the coup by criticizing the former government’s inability to address insecurity from armed extremist groups in Burkina Faso. However, his time in power, which lasted until September 2022, was marked by criticism of alleged mismanagement and failure to deliver on his promises of restoring stability and good governance, ultimately leading to another coup that deposed him.
+
+Damiba’s brief leadership was controversial due to allegations of favoritism and ineffective governance rather than direct financial corruption, as his administration was primarily focused on military and security operations. Critics argue that, instead of instituting meaningful reforms to strengthen Burkina Faso’s response to insecurity, he concentrated on consolidating his power within the military and government. Reports indicate that high-ranking positions were often filled by allies and loyalists, raising concerns about favoritism and limited accountability.   </p>
+
+<div class="footer">
+<p>&#169; 2024 Korstrada Top 50 List LLC All Rights Reserved.</p>
+</div>
+</body>
+</html>

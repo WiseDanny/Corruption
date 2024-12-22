@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Korstrada Africa's Top 50 Most Corrupt Politicians list</title>
+<link rel="stylesheet" href="navstyle.css">
+</head>
+<body>
+<ul>
+<li><a class="active" href="index.html">Home</a></li>
+<li><a href="contact.html">Contact</a></li>
+<li><a href="about.html">About</a></li>
+<li><a href="donation.html">Donation</a></li>
+</ul>
+
+
+<p>In 2020, Kamerhe was accused of embezzling millions of dollars allocated for the 100-Day Program. Investigations revealed that contracts awarded for various projects, such as building affordable housing and improving infrastructure, involved inflated costs and irregularities. Some of the companies contracted for these projects had alleged links to Kamerhe and his associates, fueling accusations that funds meant for development were diverted through overpriced contracts or ghost projects. Additionally, many of the promised projects remained unfinished or did not start at all, despite the disbursement of significant sums.
+
+The court also examined Kamerhe’s alleged role in laundering funds through family members and close business associates. Reports indicated that money transferred for the 100-Day Program may have been redirected into personal accounts, allowing Kamerhe and his network to benefit financially from what was supposed to be a public development initiative. These allegations were especially troubling for the DRC, where underfunded infrastructure and social services remain pressing issues, and citizens are highly affected by financial misconduct among public officials.
+
+In June 2020, Kamerhe was convicted on charges of embezzlement and sentenced to 20 years of forced labor, marking a rare instance of high-level accountability for corruption in the DRC. His conviction was seen as a test for President Tshisekedi’s commitment to fighting corruption, as Kamerhe had been a key political ally.  </p>
+
+<div class="footer">
+<p>&#169; 2024 Korstrada Top 50 List LLC All Rights Reserved.</p>
+</div>
+</body>
+</html>

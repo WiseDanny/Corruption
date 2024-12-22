@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Korstrada Africa's Top 50 Most Corrupt Politicians list</title>
+<link rel="stylesheet" href="navstyle.css">
+</head>
+<body>
+<ul>
+<li><a class="active" href="index.html">Home</a></li>
+<li><a href="contact.html">Contact</a></li>
+<li><a href="about.html">About</a></li>
+<li><a href="donation.html">Donation</a></li>
+</ul>
+
+<p>Favoritism and financial misappropriation raised concerns about his commitment to ethical governance and cast doubt on his pledges to fight corruption.
+
+Additionally, accusations emerged that Dillo misused funds allocated for public projects and development initiatives. Some believed that resources meant to benefit local communities or improve infrastructure were instead funneled into private ventures, allowing Dillo to amass wealth and power. </p>
+
+<div class="footer">
+<p>&#169; 2024 Korstrada Top 50 List LLC All Rights Reserved.</p>
+</div>
+</body>
+</html>

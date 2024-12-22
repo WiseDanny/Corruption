@@ -1,0 +1,72 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+}
+
+.ranking-list {
+    width: 80%;
+    margin: 0 auto;
+    background-color: white;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+}
+
+.rank {
+    display: flex;
+    align-items: center;
+}
+
+.rank-number {
+    font-size: 20px;
+    margin-left: 10px;
+}
+
+button {
+    background: none;
+    border: none;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+button:focus {
+    outline: none;
+}
+
+.profile {
+    display: flex;
+    flex-direction: column;
+}
+
+.profile-name {
+    font-size: 18px;
+    color: #007bff;
+    text-decoration: none;
+}
+
+.profile-name:hover {
+    text-decoration: underline;
+}
+
+.stars {
+    color: gold;
+    font-size: 16px;
+}
+

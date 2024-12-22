@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Korstrada Africa's Top 50 Most Corrupt Politicians list</title>
+<link rel="stylesheet" href="navstyle.css">
+</head>
+<body>
+<ul>
+<li><a class="active" href="index.html">Home</a></li>
+<li><a href="contact.html">Contact</a></li>
+<li><a href="about.html">About</a></li>
+<li><a href="donation.html">Donation</a></li>
+</ul>
+
+<p>One area of concern is the lack of transparency in government contracts, particularly regarding large-scale infrastructure projects and the privatization of state-owned enterprises. Abiy’s administration has pushed for privatization in sectors such as telecommunications, finance, and energy as part of economic reforms to open up Ethiopia’s economy to foreign investment. However, critics argue that the bidding processes are often opaque and that certain business interests and political allies may receive favorable treatment. This has raised suspicions that some contracts are awarded based on personal or political connections rather than merit or competitive bidding.
+
+Another issue is the alleged misallocation of public funds and resources, particularly as the country has grappled with internal conflicts, especially the Tigray conflict. The government has been accused of funneling funds toward military expenditures and political allies rather than addressing critical social needs such as healthcare, education, and economic support for vulnerable populations.  </p>
+
+<div class="footer">
+<p>&#169; 2024 Korstrada Top 50 List LLC All Rights Reserved.</p>
+</div>
+</body>
+</html>

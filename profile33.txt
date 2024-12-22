@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Korstrada Africa's Top 50 Most Corrupt Politicians list</title>
+<link rel="stylesheet" href="navstyle.css">
+</head>
+<body>
+<ul>
+<li><a class="active" href="index.html">Home</a></li>
+<li><a href="contact.html">Contact</a></li>
+<li><a href="about.html">About</a></li>
+<li><a href="donation.html">Donation</a></li>
+</ul>
+
+<p>Ms. Dapaah, the former sanitation minister, currently faces an OSP investigation related to allegations of corruption and corruption-related offenses. One million dollars in cash was at her house.The public became aware of this substantial sum when it was stolen by two domestic staff, leading Ms. Dapaah herself to involve the police. Public outcry and parliamentary concerns over the origin of the money led to Ms. Dapaah's resignation from her ministerial position.</p>
+<div class="footer">
+<p>&#169; 2024 Korstrada Top 40 List LLC All Rights Reserved.</p>
+</div>
+</body>
+</html>

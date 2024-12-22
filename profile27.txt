@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Korstrada Africa's Top 50 Most Corrupt Politicians list</title>
+<link rel="stylesheet" href="navstyle.css">
+</head>
+<body>
+<ul>
+<li><a class="active" href="index.html">Home</a></li>
+<li><a href="contact.html">Contact</a></li>
+<li><a href="about.html">About</a></li>
+<li><a href="donation.html">Donation</a></li>
+</ul>
+
+<p>Chakwera has promised to fight corruption, his administration has faced accusations of not doing enough to tackle corruption within its ranks. Some critics argue that despite his anti-corruption stance, there have been continued reports of corruption among government officials.  </p>
+
+<div class="footer">
+<p>&#169; 2024 Korstrada Top 40 List LLC All Rights Reserved.</p>
+</div>
+</body>
+</html>

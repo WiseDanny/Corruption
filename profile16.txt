@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Korstrada Africa's Top 50 Most Corrupt Politicians list</title>
+<link rel="stylesheet" href="navstyle.css">
+</head>
+<body>
+<ul>
+<li><a class="active" href="index.html">Home</a></li>
+<li><a href="contact.html">Contact</a></li>
+<li><a href="about.html">About</a></li>
+<li><a href="donation.html">Donation</a></li>
+</ul>
+
+<p>King Mswati III of Eswatini (formerly Swaziland) has faced persistent allegations of corruption and financial mismanagement throughout his reign. Ruling as Africa’s last absolute monarch, Mswati controls significant state resources and holds substantial economic power, which critics argue he uses to benefit himself and his inner circle, often at the expense of the general population. Despite Eswatini’s economic struggles and high poverty rates, Mswati’s lavish lifestyle has drawn considerable criticism, with claims that public funds are misused to support his personal wealth and luxury.
+
+One major source of contention is the way in which public funds are allocated. While the monarchy receives a large share of the national budget, these funds are often used for Mswati’s extravagant lifestyle, including luxurious cars, palaces, and frequent international travel. He reportedly owns multiple expensive cars, private jets, and numerous palatial residences. Meanwhile, the majority of the population faces widespread poverty, limited healthcare, and high unemployment rates.   </p>
+
+<div class="footer">
+<p>&#169; 2024 Korstrada Top 50 List LLC All Rights Reserved.</p>
+</div>
+</body>
+</html>
